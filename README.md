@@ -18,7 +18,7 @@ These are what the final images looked like:
 
 #### Stylized as "Wave"
 <p align = 'center'>
-<img src = 'examples/style/wave.jpg' height = '350px'>
+<img src = 'examples/style/wave.jpg' height = '200px'>
 <img src = 'examples/results/joshtest1_wave.jpg' height = '350px'>
 <!-- <a href = 'examples/results/stata_udnie.jpg'><img src = 'examples/results/stata_udnie_header.jpg' width = '627px'></a> -->
 </p>
