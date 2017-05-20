@@ -7,16 +7,17 @@ These are what the final images looked like:
 
 #### Input Image
 <p align = 'center'>
-<img src = 'examples/content/joshtest1.jpg' height = '260px'>
+<img src = 'examples/content/joshtest1.jpg' height = '300px'>
 </p>
 
 #### Stylized as "Rain Princess"
 <p align = 'center'>
-<img src = 'examples/results/joshtest1_rain_princess.jpg' height = '260px'>
+<img src = 'examples/results/joshtest1_rain_princess.jpg' height = '300px'>
 </p>
+
 #### Stylized as "Wave"
 <p align = 'center'>
-<img src = 'examples/results/joshtest1_wave.jpg' height = '260px'>
+<img src = 'examples/results/joshtest1_wave.jpg' height = '300px'>
 <!-- <a href = 'examples/results/stata_udnie.jpg'><img src = 'examples/results/stata_udnie_header.jpg' width = '627px'></a> -->
 </p>
 
