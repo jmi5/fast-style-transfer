@@ -1,4 +1,14 @@
-t Byte-compiled / optimized / DLL files
+## Manually added
+
+examples/
+!examples/content/joshtest1.jpg
+!examples/results/joshtest1_rain_princess.jpg
+!examples/results/joshtest1_wave.jpg
+!examples/styles/rain_princess.jpg
+!examples/styles/wave.jpg
+Fast\ Style\ Transfer\ Models/
+
+# t Byte-compiled / optimized / DLL files
 deps.txt
 archive
 saver
@@ -97,3 +107,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+
